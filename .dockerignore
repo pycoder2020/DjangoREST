@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.env
+*.sqlite3
+.venv
+venv
+.pytest_cache
+.coverage
+htmlcov
+*.egg-info
+dist
+build
